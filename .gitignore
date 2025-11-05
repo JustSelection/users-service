@@ -1,0 +1,17 @@
+# Binaries
+/users-service
+/users-service.exe
+
+# IDE
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Env
+.env
+
+# Docker
+postgres-container/
